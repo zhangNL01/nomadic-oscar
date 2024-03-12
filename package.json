@@ -1,0 +1,14 @@
+{
+  "name": "nomadic-oskar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "nodemon src/app.js"
+  },
+  "author": "zhangnl01",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
